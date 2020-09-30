@@ -17,7 +17,7 @@
 </a>
 
 <br />
-<img align="right" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
+<img align="right" alt="GIF" src="https://github.com/darshan-jain/darshan-jain/blob/master/rick.gif" />
 
 ### I am Darshan Jain
 - A Full-Stack Developer & Open Source enthusiast.
