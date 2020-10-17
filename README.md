@@ -24,9 +24,7 @@
   <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Darshan Jain's DEV Profile" height="30" width="30">
 </a>
 
-<a href="https://dev.to/darshanjain">
-  <i class="fab fa-dev" title="darshanjain's DEV Profile"></i>
-</a>
+
 <br />
 <img align="right" alt="GIF" src="https://github.com/darshan-jain/darshan-jain/blob/master/rick.gif" />
 
