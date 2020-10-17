@@ -19,7 +19,10 @@
 <a href="https://medium.com/@darshanjain_5991">
   <img align="left" alt="Darshan's Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
 </a>
-[![Darshan Jain's DEV Profile](https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg)](https://dev.to/darshanjain)
+
+<a href="https://dev.to/darshanjain">
+  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Darshan Jain's DEV Profile" height="30" width="30">
+</a>
 
 <br />
 <img align="right" alt="GIF" src="https://github.com/darshan-jain/darshan-jain/blob/master/rick.gif" />
