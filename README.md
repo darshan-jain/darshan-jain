@@ -30,7 +30,7 @@
 
 ### I am Darshan Jain
 - A MERN-Stack Developer & Open Source enthusiast.
-- A Computer Engineering Undergraduate Student. 
+- A Computer Engineering Graduate Student @ USC
 - Currently working on some of my cool side projects based on Web Development and Blockchain.
 - I'm currently looking for opportunities. I love to learn and contribute in any and every possible way.
 
