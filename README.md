@@ -29,9 +29,6 @@
 <img align="right" alt="GIF" src="https://github.com/darshan-jain/darshan-jain/blob/master/rick.gif" />
 
 ### I am Darshan Jain
-- A MERN/MEAN-Stack Developer & Open Source enthusiast.
-- A Computer Science Graduate Student @ USC
-- Currently working on some of my cool side projects based on Web Development and Blockchain.
-- I'm currently looking for opportunities. I love to learn and contribute in any and every possible way.
+- I am a Master’s student in Computer Science at the University of Southern California, with a strong focus on solving complex problems through machine learning and advanced algorithms. My expertise extends to full-stack web development, where I build scalable and efficient applications, as well as conducting research in blockchain, security, and data science. My academic projects have addressed real-world challenges, such as developing cross-chain interoperable systems and enhancing data-sharing security. Passionate about innovation, I am dedicated to bridging the gap between theoretical knowledge and practical application to create impactful technological solutions.
 
 ⭐️ From [Darshan Jain](https://github.com/darshan-jain)
